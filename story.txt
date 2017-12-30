@@ -1,2 +1,8 @@
 Long long ago, there was a god named Rama.
+<<<<<<< HEAD
 He married Sita
+=======
+
+
+Rama marries Sita
+>>>>>>> marriage
